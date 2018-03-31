@@ -34,6 +34,6 @@ There will be four files:
 
 
 
-If the application does not work I am just adding a report document about the work that has been done till now.
+If the application does not work I am adding a report document about the work that has been done till now.
 
  
